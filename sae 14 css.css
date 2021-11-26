@@ -1,0 +1,99 @@
+§article{
+    flex-basis: 100%;
+    }
+
+h6{
+    font-weight: 600;
+    text-align: center;
+    font-size: x-large;    
+}
+
+body{
+    margin: 0em;
+    padding: 0;
+}
+
+section {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.art1{
+    background-color: rgba(0, 0, 255, 0.363);
+    width: 100%;
+    font-size: large;
+    vertical-align: top ;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+}
+
+div{
+    left: 300px;
+    display: block;
+    position: absolute;
+    top: 200px;
+}
+
+.art2{
+    background-color: yellow;
+    width: 100%;
+    font-size:large;
+    vertical-align: top ;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    text-align: center;
+}
+
+.art3{
+    background-color: green;
+    width: 100%;
+    font-size: large;
+    vertical-align: top ;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+        text-align: center;
+}
+
+.art4{
+    background-color:rgba(128, 0, 128, 0.800) ;
+    width: 100%;
+    font-size: large;
+    vertical-align: top ;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    text-align: center;
+}
+
+.art5{
+    background-color:orange ;
+    width: 100%;
+    font-size: large;
+    vertical-align: top ;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    text-align: center;
+}
+
+.art6{
+    background-color:red ;
+    width: 100%;
+    font-size: large;
+    vertical-align: top ;
+    border-style: solid;
+    border-width: thin;
+    border-color: black;
+    text-align: center;
+}
+
+body{
+    background-color: lightblue;
+} 
